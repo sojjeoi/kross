@@ -83,6 +83,36 @@ Team Iron의 플랫폼 **KROSS**는 새 인프라에 앱을 처음부터 다시 
 | [**Service**](https://github.com/Softbank-Hackathon-Team/Service) | 이전 플랫폼 본체: 콘솔 · API · 워커 · 어댑터 · 인프라 모듈 |
 | **gitops** (비공개) | 승인된 계획을 고객 클러스터로 내보내는 배포 레포 (Argo CD app-of-apps) |
 
+## 👥 팀 구성원
+
+Team Iron · 5명
+
+<table>
+  <tr>
+    <th align="center">이정</th>
+    <th align="center">박승준</th>
+    <th align="center">오채건</th>
+    <th align="center">박소정</th>
+    <th align="center">강윤주</th>
+  </tr>
+  <tr>
+    <td align="center">Team Lead<br>Architecture · Control Plane</td>
+    <td align="center">Sandbox Rehearsal<br>Cloud Provisioning · Web Console</td>
+    <td align="center">Security · Governance<br>On-premises</td>
+    <td align="center">Platform Infra<br>Traffic · Observability</td>
+    <td align="center">Platform Infra<br>Terraform · EKS</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Pionia5375">@Pionia5375</a></td>
+    <td align="center"><a href="https://github.com/Seungjun1127">@Seungjun1127</a></td>
+    <td align="center"><a href="https://github.com/fl0wizy">@fl0wizy</a></td>
+    <td align="center"><a href="https://github.com/sojjeoi">@sojjeoi</a></td>
+    <td align="center"><a href="https://github.com/yunjuka">@yunjuka</a></td>
+  </tr>
+</table>
+
+역할 상세는 [Service README의 Team Iron](https://github.com/Softbank-Hackathon-Team/Service#-team-iron)을 따릅니다.
+
 ---
 
 <div align="center"><b>Team Iron · SoftBank Hackathon 2026</b><br>이정 · 박승준 · 오채건 · 박소정 · 강윤주</div>
